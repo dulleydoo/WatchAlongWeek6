@@ -1,7 +1,10 @@
 import java.util.Arrays;
 
 public class WorkingWith2DArrays {
+    //    -compact for memory usage if size is known -Delte
+    //    operation is hard -building blocks for 2DArrays
     public static void main(String[] args) {
+
         // 2d arrays are good when you want to have a grid
         char[][] board = new char[3][3];
         //looping through a 2d array

@@ -2,8 +2,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class WorkingWithQueue {
+//    Queues FIFO stands for First in first out.
+//    A collection designed for holding elements prior to processing like a printer
+//    The elements or pages are queued and printed based on which was sent first, not most recent
+
         public static void main(String[] args) {
-            //FIFO First in first out
             Queue<String> superMarket = new LinkedList<>();
 
             superMarket.add("Coke");

@@ -2,8 +2,9 @@ import java.util.Arrays;
 
 public class TheArrays {
 
-//    an array is like a list of buckets where you can define the size.
-//    arrays are fast for data retrievals
+//    Arrays -Arrays are building blocks to data structures that java has to offer -you can think
+//    of an array as a bucket or lists of buckets where you define a fixed size -the index starts
+//    at 0 -arrays are fast for data retrieval
 
     public static void main(String[] args) {
         String[] colors = new String[5];

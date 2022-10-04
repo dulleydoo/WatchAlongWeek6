@@ -8,7 +8,7 @@ public class WorkingWithLists {
         /*
         -Allows duplicates
         -Not fixed in size like arrays
-        -Fast for data retrivals
+        -Fast for data retrievals
         -Various implementations
          */
         List<String> colorsUnmodifiable = List.of(
